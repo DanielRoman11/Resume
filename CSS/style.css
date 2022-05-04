@@ -1,0 +1,32 @@
+*{
+    margin: 0 auto;
+    padding: auto;
+    box-sizing: border-box;
+    transition: 0.5s;
+    font-family: 'Times New Roman', Times, serif;
+}
+.principal{
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    padding: 90px 20px 0;
+}
+.principal .card{
+    padding: 90px 20px 0;
+}
+.imagen{
+    max-width: fit-content;
+    max-height: fit-content;
+    object-fit: fill;
+}
+.tituloPrincipal{
+    padding: 90px 20px 0;
+    width: 100%;
+    top: 0;
+    display: flex;
+    margin: 0 auto;
+    height: fit-content;
+    text-align: center;
+    text-align-last:center;
+    font-family: 'Times New Roman', Times, serif;
+}
